@@ -9,6 +9,10 @@
 In addition to simulating the core capabilities of the Flipper Zero, this GPT can help troubleshoot problems, guide users through development processes, and offer insights into the device's rich feature set. Whether working with RFID, NFC, sub-GHz communications, or even GPIO pins for electronics projects, users can rely on the GPT to walk them through each step of configuration, scripting, or interaction with external devices. It also offers support for custom firmware, helping users modify the device's operating system or create new functionalities tailored to their needs.
 
 #
+
+![Flipper Zero](https://github.com/user-attachments/assets/3062baa4-da97-4e84-b754-5d364ab82e87)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
