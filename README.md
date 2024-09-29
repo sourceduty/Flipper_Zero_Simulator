@@ -12,6 +12,10 @@ In addition to simulating the core capabilities of the Flipper Zero, this GPT ca
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
+<br>
+[Hack Automation](https://github.com/sourceduty/Hack_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
