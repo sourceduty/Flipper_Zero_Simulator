@@ -22,6 +22,8 @@ In addition to simulating the core capabilities of the Flipper Zero, this GPT ca
 [Hack Automation](https://github.com/sourceduty/Hack_Automation)
 <br>
 [Flipper Zero Docs](https://docs.flipper.net)
+<br>
+[CyberPi Hacker](https://github.com/sourceduty/CyberPi_Hacker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
